@@ -2,9 +2,13 @@
 
 ## Requirements
 
-Go, TinyGo, Binaryen.
+Python3, Go, TinyGo, Binaryen.
+
+
 Kubernetes Cluster.
+
+
 SpinKube.
 
 
-Scoop suggested to windows installation of said requirements. 
+Scoop recommended to windows installation of said requirements. 
