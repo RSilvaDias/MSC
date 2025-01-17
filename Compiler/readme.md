@@ -1,12 +1,8 @@
 ## Cmds
 
-### Compile
+### Running
 
-
-go build -o wasm_compiler compiler.go
-
-
-### Run
-
-./wasm_compiler ./examples/mm.go output.wasm
+Python compiler.py <source path> <destination path>
+Ex.:
+Python compiler.py .\examples\mm.go .\examples\mm.wasm
 
